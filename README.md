@@ -10,7 +10,7 @@
   * [License](#license)
 
   ## Description
-  Exploring object-relational mapping (ORM) using Sequelize, an ORM library that creates a virtual object database that can be used within your code while<
+  Exploring object-relational mapping (ORM) using Sequelize, an ORM library that creates a virtual object database that can be used within your code while
   managing a relational database. This will allow you to set up and completely manage objects using JavaScript, while Sequelize translates your code into
   database schema and queries using SQL. Web server using the Express.js framework. Testing framework used is Jest.
 
